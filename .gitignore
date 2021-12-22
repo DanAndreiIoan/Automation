@@ -1,0 +1,5 @@
+node_modules/
+test/test1.js
+package-lock.json
+package.json
+wdio.conf.js
