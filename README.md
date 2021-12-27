@@ -2,7 +2,7 @@
 
 ***I created automation scripts in Java using Visual Studio Code and WebDriverIO.***
 
-**First Test**
+**First Test Suite**
 >Emag Test
 
 
@@ -11,7 +11,7 @@ The first test I created accesses the eMAG.ro site, accesses the "Resealed" page
 
 ---------------------
 
-**Second Test**
+**Second Test Suite**
 
 >Libris Test
 
